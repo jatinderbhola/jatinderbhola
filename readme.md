@@ -4,4 +4,4 @@ I am a web developer, software engineer, and project manager currently living in
 
 You can click the button above to view my portfolio. If you’d like to get in touch, feel free to say hello through any of the social links below.
 
-![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jatinderbhola&show_icons=true&theme=Gradient&count_private=true)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinderbhola&show_icons=true&theme=Gradient&count_private=true)](https://github.com/jatinderbhola/github-readme-stats)
