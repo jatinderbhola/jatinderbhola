@@ -26,3 +26,6 @@ Feel free to connect with me through these platforms:
 - [Email](mailto:jatinderbhola@gmail.com)
 
 Let's collaborate, innovate, and create something extraordinary together!
+
+![💟](https://img.shields.io/badge/>-JavaScript%20%7C%20NodeJS%20%7C%20AWS-blue)
+
