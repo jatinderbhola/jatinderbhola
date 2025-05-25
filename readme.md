@@ -40,14 +40,6 @@ Currently leading the integration of cutting-edge AI tools to enhance developer 
 - 🔧 Customizable summary parameters
 - 📊 Summary statistics and metrics
 
-### [ai-text-summarize](https://github.com/jatinderbhola/ai-text-summarizer)
-**Key Features**
-- 📝 Text summarization using BART-CNN model
-- 🌐 Interactive web interface
-- ⚡ Efficient processing pipeline
-- 🔧 Customizable summary parameters
-- 📊 Summary statistics and metrics
-
 ---
 
 ## 🎯 Core Competencies
