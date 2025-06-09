@@ -16,6 +16,9 @@ Engineering leader with 10+ years of experience improving developer workflows an
 ## 🧑‍💻 Articles
 
 - [This GenAI Project Took Me One Day — And Taught Me a Ton](https://www.linkedin.com/pulse/genai-project-took-me-one-day-taught-ton-jatinder-jay-bhola-sk2pe/?trackingId=z8twViD3R56tBzMr4omr5g%3D%3D)
+- [Documentation-First Decisions Drive Business Success](https://blog.jatinderbhola.com/blog/documentation-first-decisions-drive-business-success)
+  - [LinkedIn](https://www.linkedin.com/posts/jatinderbhola_inside-alan-the-french-healthtech-startup-activity-7335314388364480512-0YCl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmeeXYBVPB0jTE7fWZHeJrn1ggWs_bzQWE) 
+- [Google's Engineering Manager Paradox: When Data Meets Corporate Reality](https://blog.jatinderbhola.com/blog/google-engineering-manager-paradox)
 
 
 ## 💡 Latest AI Product Innovation
